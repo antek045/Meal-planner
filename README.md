@@ -43,7 +43,7 @@ Jest to aplikacja stworzona do planowania zdrowych posiłków na cały tydzień.
 
 # Podgląd aplikacji (screenshot)
 
-[Zrzut ekranu przedstaiwjący planer posiłków](images/Screenshot.png)
+[Zrzut ekranu przedstaiwjący planer posiłków][(images/Screenshot.png)]
 
 # Co dalej?
 
