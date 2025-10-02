@@ -13,7 +13,7 @@ Jest to aplikacja stworzona do planowania zdrowych posiłków na cały tydzień.
 
         - Uruchom projekt za pomocą polecenia: npm run dev
 
-    3. Aplikacja powinna być dostępna pod adresem: http://localhost:5173
+3. Aplikacja powinna być dostępna pod adresem: http://localhost:5173
 
 # Co znajduje się w środku?
 
